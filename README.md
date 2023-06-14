@@ -1,0 +1,2 @@
+# WSB_PYTHON_PROJECT
+Bollinger_band_crypto_BOT
